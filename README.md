@@ -1,5 +1,9 @@
 # boss-selenium
-使用python+selenium完成对boss互联网相关岗位的数据爬取
+使用python+selenium完成对boss互联网相关岗位的数据爬取，如果对您有所帮助，请对项目进行star鼓励一下作者。
+
+作者未及时回复信息，请扫码催促作者
+
+<img src="img_2.png" alt="img_2.png" style="zoom:15.6%;" /><img src="img_3.png" alt="img_3.png" style="zoom:25%;" />
 
 ## 1. 环境准备
 **安装项目依赖库**
