@@ -3,7 +3,7 @@
 
 作者未及时回复信息，请扫码催促作者
 
-<img src="img_2.png" alt="img_2.png" style="zoom:15.6%;" /><img src="img_3.png" alt="img_3.png" style="zoom:25%;" />
+<img src="img_2.png" alt="img_2.png" style="width:350px; height:500px" /><img src="img_3.png" alt="img_3.png" style="width:350px;height:500px" />
 
 ## 1. 环境准备
 **安装项目依赖库**
